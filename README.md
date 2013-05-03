@@ -1,1 +1,1 @@
-# Moved to https://github.com/DBCDK/Mobile.TING-udviklingsretningslinjer
+# Moved into https://github.com/DBCDK/rje
